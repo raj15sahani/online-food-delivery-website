@@ -8,11 +8,9 @@ It is a WEB Mini project .
 
 # BACK END
 
-* Download Sublime text
-
 * Download Php my admin
 
-* ADD [Sql]
+* ADD [Sql file]
 
 # FRONT END
 
